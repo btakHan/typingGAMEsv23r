@@ -1,11 +1,11 @@
 # Typing GAME
 
 ## Test 순서
-+ npm install
-+ npm run build
-+ npm test
-+ npm start
-+ 
++ npm install 
++ npm run build (public 폴더 확인) 
++ npm test (단위테스트 확인)
++ npm start (서버 구동)
+
 ## 과제 요구사항
 + webpack 환경구성
 + start script를 통해서 hot-loading 적용
@@ -37,11 +37,4 @@
     + 시작 버튼 클릭 시 style을 활용하여 시작버튼을 숨김처리하고 초기화 버튼을 보여지게 한다.
     + 반대의 경우 초기화 버튼 클륵 시 시작 버튼을 표시하고 초기화 버튼을 숨김 처리.
     + 시작 시 서버에서 받아온 단어 목록을 순차적으로 게임 화면에 표시 한다.
-# typing
-
-# typingGame
-
-# typingGAME
-
-# typingGAME
 
